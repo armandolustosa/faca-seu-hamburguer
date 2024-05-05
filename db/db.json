@@ -77,49 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "id": "9b57",
-      "nome": "d",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "9256",
-      "nome": "d",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "8a71",
-      "nome": "d",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "4630",
-      "nome": "d",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado"
-    }
-  ]
+  "burgers": []
 }
