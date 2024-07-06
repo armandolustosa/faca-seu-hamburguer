@@ -197,7 +197,6 @@ select {
   border: 2px solid #8b4513;
   padding: 10px;
   font-size: 16px;
-  margin: 0 auto;
   cursor: pointer;
   transition: 0.5s;
 }
